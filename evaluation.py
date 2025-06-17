@@ -1,0 +1,1 @@
+# Uses ArtFID to get the image score
